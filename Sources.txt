@@ -1,0 +1,5 @@
+[
+ {
+   "title1": "Credits/Sources",
+   "desc1": "This server and its resources use the following resources, Many thanks to all creators whose work made this possible. Certain sources are from communities rather then groups or indivduals, in cases like this the source will be direct linked.\n**Aliases:**\nAny Table (!table) - @Crabinator#3309\nBattle Planner Tool(b!plan) - @Mahkasad#5996\nDynamic Encounter Tool (!denc) - @Mahkasad#5996\nEnviromental Statistics (!env) - @silverbass#2407\n**Swamp Encounters:**\nBits of Wilderness into the Swamps - Tabletop Adventures\nHazardous Enviroments Wetlands - Frog God Games\nMelvins Minute Monsterium Swamps & Sewers - Kari Hoffren\nOne Page Number 16 Wetlands Features and Hazards - Mark A. Thomas\nWetlands; Swamps, Marshes, Bogs, and Fens - Matt David\nWilderness Dressing Swamps - Raging Swan Press\n101 Poisons and their Effects - Chris Povall\nD100 Fantasy Drugs - [D100 Reddit Community](https://www.reddit.com/r/d100) \n100 Swamp Encounters - [DnD Behind the Screen Reddit Community](https://www.reddit.com/r/DnDBehindTheScreen/comments/8zfhuj/100_swamp_encounters/) \nNon-Combat Swamp Encounters 1d100 - Paul Bellow"}
+]

@@ -1,0 +1,316 @@
+[
+	{
+		"name": "Kursan Swamps",
+		"type": "Swamp",
+		"visibility": "Normal",
+		"languages": "Vahcian, Kursan",
+		"DCs": {
+			"foraging": 15,
+                        "identification": 15,
+			"navigation": 10
+
+		},
+		"special": [
+			{
+				"name": "Fetid Water",
+				"desc": "A creature can be immersed in Fetid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in fetid water requires the creature to succeed on a DC 10 Constitution saving throw or become poisoned. Creatures with resistance or immunity to poison damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in swamps."
+			}
+			
+		],
+		"weather": {
+			"temp": {
+				"winter": ["2d6 - 20", "1d6 - 35"],
+				"spring": ["2d8", "1d8 - 10"],
+				"summer": ["2d12 + 20", "1d12"],
+				"fall": ["3d8 + 5", "2d8"]
+			},
+			"wind": {
+				"10": "None",
+				"16": "Light wind",
+				"20": "Strong wind"
+			},
+			"precipitation": {
+				"4": "None",
+				"10": "Overcast, fog, or mist",
+				"16": "Light rain",
+				"20": "Heavy rain"
+			}
+		},
+		"foraging": {
+					"38": "The mood in this area seems calm and peaceful. In the distance, you can see an old wooden canoe with a glossy, black color, gently drifting down a natural current through the swamp. Searching inside reveals a satchel containing a ring capped with a ruby gemstone. It is worth {{1d150+150}}GP",
+					"39": "A half rotted body floats in the water. Its missing its face. (+10xp)",
+					"40": " A group of red squirrels, with large bushy tails, are running in the branches of an oak tree. (+10xp)",
+					"41": "A frog doesn’t have time to hide before a group of hungry ducks crash into the water. The ducks catch the frog and gobble it down whole. (+15xp)",
+					"42": "A group of snapping turtles, three feet long, are sleeping in the sun. The turtles make a snapping motion with their three-foot long jaws, as the party passes. (+20xp)",
+					"43": "A pack of large, spotted dogs, with short hair, is digging up a dead raccoon. The dogs are attracted to the smell of the decaying carcass. (+10xp)",
+					"44": "Huge, carnivorous, black beetles are crawling around the muddy bank of a stream. The beetles are nearly the size of a human hand, and they’re picking over a dead and decomposing body laying on the ground. (+15xp)",
+					"44": "You find a blueberry plant with fist sized blueberries. If one is eaten, they taste delicious and heal 1d8 hit points. There are {{1d6}} blueberries per plant. A character may only benefit from one blueberry per day.",
+					"45": "You come across a wide and very deep ravine. About halfway down on the other side, you see the glint of a mineral deposit with the unmistakable luster of gold. Harvesting it with a successful DC((1d8+10)) smithing tools check nets {{1d50+75}} GP",
+					"46": "You hear a scream that sounds so alien it gives you chills. It it sounds very close but any attempt find it yields no results. (+10xp)",
+					"47": "You spot a murder of crows fly by. Alarmingly none of them seem to have eyes. (+25xp)",
+					"48": "A wand of wonder is found clutched in the hand of a dead paladin. It only has 1 charge left. (Unsellable)",
+					"49": "You discover a small flat-bottom boat beached next to a pool of stagnant water. The boat is covered in mildew and algae — but its sides and bottom appear to be sturdy enough to hold up in the water, a glance inside reveals a small bag containing {{5d8}} gold.",
+					"50": "You come across a large, black beetle, with yellowed teeth. It clamps its mandibles around the head of a small deer. The beetle viciously devours the deer. before charging you down. After dispatching the monstrosity you take the time to harvest some of its materials, netting you a CR{{1d3}} Beetle carapace crafting component."
+		},
+		"locations": [
+			{
+				"name": "Ancient Crypt",
+				"type": "Ruins",
+				"desc": "Buried underneath centuries of ice, an ancient stone trapdoor leads down into the frigid crypt of a civilization from the far past. Within the crypt are {{3d6}} zombies, {{1d4}} wights, and 1 stone golem made of ice, which all have vulnerability to fire damage. The temperature in the crypt is {{2d10}} degrees Fahrenheit colder than it is outside. A staff of frost can be found within the crypt's depths, as well as an ancient journal written in Elvish, which tells of a powerful noble's descent into madness. A character that succeeds on a DC 20 Intelligence (History or Religion) check can recognize signs that the author had made preparations to become a vampire upon death."
+			},
+			{
+				"name": "Sawtooth Ridge",
+				"type": "Landmark",
+				"desc": "A jagged set of ridges rising up to just over 4,000 feet high, Sawtooth Ridge can be seen in good weather, identifying the eastern edge of the Tooth-Break Tundra. Atop the ridge sits the lair of an adult white dragon, a feral creature that goes by only the name given to it by travelers: White Fang."
+			},
+			{
+				"name": "Winterheart",
+				"type": "Settlement",
+				"desc": "An enormous fortress built from bone, stone, and ice, Winterheart is home to a clan of frost giants, led by one named Ubor. Under the typically overcast skies of the Tooth-Break Tundra, Ubor has kindly opened his home to a number of unearthly vampiric guests.\n\nThe walls of Winterheart are patrolled by {{1d4}} winter wolves at any time. Within its walls are {{3d6}} frost giants, 1 vampire, {{1d4}} vampire spawn, and {{4d6}} winter wolves. These creatures are hostile to any creature that has not earned Ubor's permission to enter Winterheart.\n\nWinterheart's frozen vault contains within it many wondrous treasures, including a pair of boots of the winterlands, a frostbrand greatsword, and a ring of cold resistance, along with {{3d6}} gems each worth 500 gp, {{4d6 * 1000}} gp, and {{5d6 * 100}} pp."
+			}
+		]
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+	{
+		"name": "Kursan Swamps",
+		"type": "Swamp",
+		"visibility": "Normal",
+		"languages": "Vahcian, Kursan",
+		"DCs": {
+			"foraging": 15,
+                        "identification": 15,
+			"navigation": 10
+
+		},
+		"special": [
+			{
+				"name": "Fetid Water",
+				"desc": "A creature can be immersed in Fetid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in fetid water requires the creature to succeed on a DC 10 Constitution saving throw or become poisoned. Creatures with resistance or immunity to poison damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in swamps."
+			}
+			
+		],
+		"weather": {
+			"temp": {
+				"winter": ["2d6 - 20", "1d6 - 35"],
+				"spring": ["2d8", "1d8 - 10"],
+				"summer": ["2d12 + 20", "1d12"],
+				"fall": ["3d8 + 5", "2d8"]
+			},
+			"wind": {
+				"10": "None",
+				"16": "Light wind",
+				"20": "Strong wind"
+			},
+			"precipitation": {
+				"4": "None",
+				"10": "Overcast, fog, or mist",
+				"16": "Light rain",
+				"20": "Heavy rain"
+			}
+		},
+		"foraging": {
+					"1": "The skeleton of a horse, half-submerged in mud, sticks out of a nearby pool. A glance into the saddle bag reveals assorted jewelry worth {{1d100+100}}GP",
+					"2": "A brief downpour of rain hits the area, completely soaking everyone and snuffing any flames. (+10xp)",
+					"3": "A box of fishing gear and a fishing pole lie near a small stool by the river. The amount of ware and mud indicates they have been abanonded for some time. (+10xp)",
+					"4": "A bright color flashes at the edges of your vision. An investigation shows it to be a colorful child sized scarf that’s been caught on a tree-branch. There is no sign of the owner, and the level of wear indicates that it has been exposed to elements for several months. (+10xp)",
+					"5": "A group of birds fly out of a nearby tree, making a lot of noise. Something scared them, but no investigation turns up what it was. (+15xp)",
+					"6": "You find a small bush containing {{1d4+2}} Thistle berries, consuming a thistle berry swaps sweet and savory tastes for 1 hour. (+10xp)",
+					"7": "You find a small burrow containing {{1d3}} Mind-Link berry bundles. Mind-link Berry bundles contain two berrys, when two creatures each consume one of the berrys in a bundle they become psychically linked and can communicate telepathically with each other up to 100 miles. This effect ends after 24 hours.",
+					"8": "You find a small bundle of smugglers herb, highly illegal, its properties as a drug are coveted among the criminal classes. You can exchange it to some criminals for {{1d6+2}} lower contacts, or turn it into the guard for {{1d3}} middle contacts.",
+					"9": "You find a small thistle of {{1d3}} cinder peetles. als: These bright red and orange flowers can be found all around the world. If ground up finely and left in a vial or bottle with water they will coagulate the water into a thick goo become a vibrant swirl of red and orange. (+20xp)",
+					"10": "You find a relatively bare section of the swamps coated by a massive layer of deadmans weed, it is said that it grows over graves and where the dead has fallen. As you take in the hundreds of feet it you feel a chill run down your spine. (+15xp)",
+					"11": "You discover a small bunble of {{1d3}}, marshmellow, this green bulbous flower when boiled and converted into a salve can massively increase the healing rate of burns. When applied, damage from fire damage is healed at 2x the normal hit points when healing magic is used.",					
+					"12": "Gravestones tilting at different angles and slowly sinking into the ground are surrounded by a rusting and decrepit iron fence. They comprise a small, long-abandoned and sinking graveyard. (+15xp)",
+					"13": "As you walk around a huge granite boulder, the size of a small mountain, you behold a colorful sight. A field full of vibrant flowers, of every shape and size, dances to the tune of the breeze. Floral scents fill your nostrils, along with the tickle of pollen. The soft trickling sound ofa stream nearby makes this an almost serene place. It appears that you haveexited the swamp; however another step proves this wrong, as your foot submerges into the cold and inundated soil. (+50xp)",
+					"15": "Your eyes water as you pass under some vines dangling from a tree branch, each heavily laden with onion-like fruit. Flies buzz around the milk white, pungent fruit, eating their fill. Fallen pieces, mushy yellow with age and rot drift gently in the water's molasses-slow current. (+20xp)",
+					"16": "Faint dripping sounds lead the way to a sinkhole and the caves beneath, a small, wet network of unremarkable rocky tunnels. The caves are constantly flooded. (Unlocks Swamp Caves exploration)",
+					"17": "The air thickens and darkens as the weather changes and the temperature drops. It is difficult to tell whether it is raining or not because of the intense humidity in the air. It makes everything from clothes to weapons to torches feels slimy and unclean. (+10xp)",
+					"18": "All around you are golden rushes and parched, straw-colored grass, rising out of the swamp to make it look like a waterlogged prairie. Dragonflies hover and swoop around you. Some are tiny - mere slivers of silver sparkling in the light. Others are almost a foot long, colored bright red or vibrant black and gold with wings that reflect the sun. (+30xp)",
+					"19": "Wood that’s dry enough to catch alight is hard to come by in the swamp – the damp air and plentiful groundwater tend to keep fires from spreading, if they start at all. This makes your surroundings all the more of a surprise, as this was clearly the site of a major blaze in the not-too distant past. (+10xp)",
+					"20": "Ducks quack and splash among a stand of cattail willows. One flips under the water quickly, and erupts back out of the brackish liquid with a flapping trout in its beak. The green mallard swallows the trout in two big gulps, and, one by one, the other members of the flock follow the bird's lead. (+10xp)",
+					"21": "The normally waist-deep water splashes hard against your face. Wiping the slime from your eyes, you catch sight of a small brown and gold blur dashing across the stagnant water. The frilled lizard runs upright, its huge, flat feet making rapid sucking sounds as it dashes across the water. It can be slain with attack roll, and has an AC of 20 and a HP value of 1. Harvesting the corpse nets a CR{{1d4}} crafting component.",
+					"22": "With a jump, you realize that the curiously-shaped white stone bobbing just beneath the surface of the water is in fact an elongated skull. The skin has withered away and a few tendons have been exposed, as has the bone. The jaw bone is particularly prominent, much more so than any other skull you have seen in a life of adventuring. A few wisps of hair cling to its pate. A platinum coin appears to have been pushed into its empty mouth.",
+					"23": "A flooded foundation is all that remains of anabandoned church. Tombstones rise from the shallow waters nearby. (+30xp)",
+					"24": "A hunter's blind is positioned near an open pond, providing cover to anyone within. The hunter within is cheerful and offers to sell a CR{{1d3}} component pelt for 150gp.",
+					"25": "Hanging from a tree are half a dozen skulls. Dangling below each skull are half a dozen bones. The skulls and bones chime in a surprisingly musical manner when caught by the wind. (+10xp)",
+					"26": "You find a lakula tree, Bark shavings can be refined into a highly illegal substance that can be smeared on gums and directly to wounds, It gives an adrenaline rush and time seems to slow down but the duration of the high is short. its properties as a drug are coveted among the criminal classes. You can exchange it to some criminals for {{1d6+2}} lower contacts, or turn it into the guard for {{1d3}} middle contacts.",
+					"27": "You find a grove with a number of silvery moths, a DC18 Herbalism Kit Check will tell you that you can harvest Star Dust from thedust off of the wings of this particular moth.  When snorted, you suffer from the following effects darkvision for 8 hours, insomnia, compulsion to follow or stare at light (disadvantage on all checks made against an opponent who is holding a torch or near a bright light source), and a feeling of weightlessness. There is enough for {{1d4}} doses.",
+					"28": "The gentle, irregular croaking of frogs suddenly crescendos into a virtual roar. It sounds as if all the nearby frogs are trying to outdo each other for the loudest croak. Just under this noise, you can hear a rapid series of “plops,” as if hundreds of frogs have chased one another into the water. Then as suddenly as the noise began, it drops back to a croak or two. (+15xp)",
+					"29": "You find a thistle of devils root, slowly growing from under a nearby felled log. A black root that is ground up and snorted. The user blacks out and sees visions of hell there is {{1d3}} doses.", 
+					"30": "A wagon's muck-encrusted wheel spins slowly in the breeze. The wagon lies upended in the swamp mud, mushrooms growing from shattered wine casks. The red paint that once adorned the wagon has flaked away into a blotchy maroon rash. A horse's skeleton, its legs shattered, lies half buried in the swamp and a frog stares at you from its perch on the cracked and yellowed skull. Inspecting the inside you find several crates of supplies, untouched. You estimate you could sell them off for a profit of {{1d200+300}}GP",
+					"31": "Heavy cloud cover brings dusk several hours sooner then usal forcing you to make camp early, You spend the rest of the day relaxing around the campfire, and enjoying the natural ambience of the swamps around you. (+30xp).", 
+					"32": "The crumbling ruins of a sunken watchtower dominate a low ridge of stone and hard packed earth, mushrooms and and plant life grow along the sides of the tower. (+15xp)",
+					"33": "Overhead a black vulture flies by, letting out a loud hiss as it passes over you. It can be shot down with a ranged attack, and has an AC of 20 and a HP value of 1. Harvesting the corpse nets a CR{{1d5}} crafting component.",
+					"34": "A wind blows from the north, bringing the stench of death. Investigating it leads nowhere. (+10xp)",
+					"35": "A lone tree, on a swampy island, is covered in charms made from animal bones. They make an eerie sound as the wind blows over them. One of the bones is covered in strange symbols and can be used a CR{{1d3}} crafting component.",
+					"36": "A branch sticks out of some blackened water nearby. The light makes it look like someone’s hand is reaching out for help. (+15xp)",
+					"37": "You come across a section of swamps that is filled with dozens of bodies submurged just below the surface. Any attempts to interact with the bodies cause them to simply sink deeper into the waters below.(+20xp)",
+		            "38": "The mood in this area seems calm and peaceful. In the distance, you can see an old wooden canoe with a glossy, black color, gently drifting down a natural current through the swamp. Searching inside reveals a satchel containing a ring capped with a ruby gemstone. It is worth {{1d150+150}}GP",
+					"39": "A half rotted body floats in the water. Its missing its face. (+10xp)",
+					"40": "A group of red squirrels, with large bushy tails, are running in the branches of an oak tree. (+10xp)",
+					"41": "A frog doesn’t have time to hide before a group of hungry ducks crash into the water. The ducks catch the frog and gobble it down whole. (+15xp)",
+					"42": "A group of snapping turtles, three feet long, are sleeping in the sun. The turtles make a snapping motion with their three-foot long jaws, as the party passes. (+20xp)",
+					"43": "A pack of large, spotted dogs, with short hair, is digging up a dead raccoon. The dogs are attracted to the smell of the decaying carcass. (+10xp)",
+					"44": "Huge, carnivorous, black beetles are crawling around the muddy bank of a stream. The beetles are nearly the size of a human hand, and they’re picking over a dead and decomposing body laying on the ground. (+15xp)",
+					"44": "You find a blueberry plant with fist sized blueberries. If one is eaten, they taste delicious and heal 1d8 hit points. There are {{1d6}} blueberries per plant. A character may only benefit from one blueberry per day.",
+					"45": "You come across a wide and very deep ravine. About halfway down on the other side, you see the glint of a mineral deposit with the unmistakable luster of gold. Harvesting it with a successful DC((1d8+10)) smithing tools check nets {{1d50+75}} GP",
+					"46": "You hear a scream that sounds so alien it gives you chills. It it sounds very close but any attempt find it yields no results. (+10xp)",
+					"47": "You spot a murder of crows fly by. Alarmingly none of them seem to have eyes. (+25xp)",
+					"48": "A wand of wonder is found clutched in the hand of a dead paladin. It only has 1 charge left. (Unsellable)",
+					"49": "The player discovers a small flat-bottom boat beached next to a pool of stagnant water. The boat is covered in mildew and algae — but its sides and bottom appear to be sturdy enough to hold up in the water, a glance inside reveals a small bag containing {{3d8}} gold.",
+					"50": "You come across a large, black beetle, with yellowed teeth. It clamps its mandibles around the head of a small deer. The beetle viciously devours the deer. before charging you down. After dispatching the monstrosity you take the time to harvest some of its materials, netting you a CR{{1d3}} Beetle carapace crafting component.",
+					"100": "A small clearing in the swamp has a stone well in it. The water is fresh and clear, but the well is so deep that the bottom disappears out of sight. A rope ladder is attached to the side of the well, leading into the depths below."
+		},
+		"locations": [
+			{
+				"name": "Ancient Crypt",
+				"type": "Ruins",
+				"desc": "Buried underneath centuries of ice, an ancient stone trapdoor leads down into the frigid crypt of a civilization from the far past. Within the crypt are {{3d6}} zombies, {{1d4}} wights, and 1 stone golem made of ice, which all have vulnerability to fire damage. The temperature in the crypt is {{2d10}} degrees Fahrenheit colder than it is outside. A staff of frost can be found within the crypt's depths, as well as an ancient journal written in Elvish, which tells of a powerful noble's descent into madness. A character that succeeds on a DC 20 Intelligence (History or Religion) check can recognize signs that the author had made preparations to become a vampire upon death."
+			},
+			{
+				"name": "Sawtooth Ridge",
+				"type": "Landmark",
+				"desc": "A jagged set of ridges rising up to just over 4,000 feet high, Sawtooth Ridge can be seen in good weather, identifying the eastern edge of the Tooth-Break Tundra. Atop the ridge sits the lair of an adult white dragon, a feral creature that goes by only the name given to it by travelers: White Fang."
+			},
+			{
+				"name": "Winterheart",
+				"type": "Settlement",
+				"desc": "An enormous fortress built from bone, stone, and ice, Winterheart is home to a clan of frost giants, led by one named Ubor. Under the typically overcast skies of the Tooth-Break Tundra, Ubor has kindly opened his home to a number of unearthly vampiric guests.\n\nThe walls of Winterheart are patrolled by {{1d4}} winter wolves at any time. Within its walls are {{3d6}} frost giants, 1 vampire, {{1d4}} vampire spawn, and {{4d6}} winter wolves. These creatures are hostile to any creature that has not earned Ubor's permission to enter Winterheart.\n\nWinterheart's frozen vault contains within it many wondrous treasures, including a pair of boots of the winterlands, a frostbrand greatsword, and a ring of cold resistance, along with {{3d6}} gems each worth 500 gp, {{4d6 * 1000}} gp, and {{5d6 * 100}} pp."
+			}
+		]
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+	{
+		"name": "Kursan Swamps",
+		"type": "Swamp",
+		"visibility": "Normal",
+		"languages": "Vahcian, Kursan",
+		"DCs": {
+			"foraging": 15,
+                        "identification": 15,
+			"navigation": 10
+
+		},
+		"special": [
+			{
+				"name": "Fetid Water",
+				"desc": "A creature can be immersed in Fetid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in fetid water requires the creature to succeed on a DC 10 Constitution saving throw or become poisoned. Creatures with resistance or immunity to poison damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in swamps."
+			}
+			
+		],
+		"weather": {
+			"temp": {
+				"winter": ["2d8 + 50", "1d8 + 40"],
+				"spring": ["3d8 + 60", "2d8 + 50"],
+				"summer": ["4d8 + 70", "3d8 + 60"],
+				"fall": ["4d6 + 50", "3d6 + 40"]
+			},
+			"wind": {
+				"10": "None",
+				"10": "Light wind",
+				"16": "Strong wind"
+			},
+			"precipitation": {
+				"3": "None",
+				"10": "Overcast, fog, or mist",
+				"16": "Light rain",
+				"20": "Heavy rain"
+			}
+		},
+		"foraging": {
+					"2": "The skeleton of a horse, half-submerged in mud, sticks out of a nearby pool. A glance into the saddle bag reveals assorted jewelry worth {{1d100+100}}GP",
+					"4": "A brief downpour of rain hits the area, completely soaking everyone and snuffing any flames. (+10xp)",
+					"6": "A box of fishing gear and a fishing pole lie near a small stool by the river. The amount of ware and mud indicates they have been abanonded for some time. (+10xp)",
+					"8": "A bright color flashes at the edges of your vision. An investigation shows it to be a colorful child sized scarf that’s been caught on a tree-branch. There is no sign of the owner, and the level of wear indicates that it has been exposed to elements for several months. (+10xp)",
+					"10": "A group of birds fly out of a nearby tree, making a lot of noise. Something scared them, but no investigation turns up what it was. (+15xp)",
+					"12": "You find a small bush containing {{1d4+2}} Thistle berries, consuming a thistle berry swaps sweet and savory tastes for 1 hour. (+10xp)",
+					"14": "You find a small burrow containing {{1d3}} Mind-Link berry bundles. Mind-link Berry bundles contain two berrys, when two creatures each consume one of the berrys in a bundle they become psychically linked and can communicate telepathically with each other up to 100 miles. This effect ends after 24 hours.",
+					"16": "You find a small bundle of smugglers herb, highly illegal, its properties as a drug are coveted among the criminal classes. You can exchange it to some criminals for {{1d6+2}} lower contacts, or turn it into the guard for {{1d3}} middle contacts.",
+					"18": "You find a small thistle of {{1d3}} cinder petals. These bright red and orange flowers can be found all around the world. If ground up finely and left in a vial or bottle with water they will coagulate the water into a thick goo become a vibrant swirl of red and orange. (+20xp)",
+					"20": "You find a relatively bare section of the swamps coated by a massive layer of deadmans weed, it is said that it grows over graves and where the dead has fallen. As you take in the hundreds of feet it you feel a chill run down your spine. (+15xp)",
+					"22": "You discover a small bunble of {{1d3}}, marshmellow, this green bulbous flower when boiled and converted into a salve can massively increase the healing rate of burns. When applied, damage from fire damage is healed at 2x the normal hit points when healing magic is used.",					
+					"24": "Gravestones tilting at different angles and slowly sinking into the ground are surrounded by a rusting and decrepit iron fence. They comprise a small, long-abandoned and sinking graveyard. (+15xp)",
+					"26": "As you walk around a huge granite boulder, the size of a small mountain, you behold a colorful sight. A field full of vibrant flowers, of every shape and size, dances to the tune of the breeze. Floral scents fill your nostrils, along with the tickle of pollen. The soft trickling sound ofa stream nearby makes this an almost serene place. It appears that you haveexited the swamp; however another step proves this wrong, as your foot submerges into the cold and inundated soil. (+50xp)",
+					"28": "Your eyes water as you pass under some vines dangling from a tree branch, each heavily laden with onion-like fruit. Flies buzz around the milk white, pungent fruit, eating their fill. Fallen pieces, mushy yellow with age and rot drift gently in the water's molasses-slow current. (+20xp)",
+					"30": "You come across a large, black beetle, with yellowed teeth. It clamps its mandibles around the head of a small deer. The beetle viciously devours the deer. before charging you down. After dispatching the monstrosity you take the time to harvest some of its materials, netting you a CR{{1d3}} Beetle carapace crafting component.",
+					"32": "The air thickens and darkens as the weather changes and the temperature drops. It is difficult to tell whether it is raining or not because of the intense humidity in the air. It makes everything from clothes to weapons to torches feels slimy and unclean. (+10xp)",
+					"34": "All around you are golden rushes and parched, straw-colored grass, rising out of the swamp to make it look like a waterlogged prairie. Dragonflies hover and swoop around you. Some are tiny - mere slivers of silver sparkling in the light. Others are almost a foot long, colored bright red or vibrant black and gold with wings that reflect the sun. (+30xp)",
+					"36": "Wood that’s dry enough to catch alight is hard to come by in the swamp – the damp air and plentiful groundwater tend to keep fires from spreading, if they start at all. This makes your surroundings all the more of a surprise, as this was clearly the site of a major blaze in the not-too distant past. (+10xp)",
+					"38": "Ducks quack and splash among a stand of cattail willows. One flips under the water quickly, and erupts back out of the brackish liquid with a flapping trout in its beak. The green mallard swallows the trout in two big gulps, and, one by one, the other members of the flock follow the bird's lead. (+10xp)",
+					"40": "The normally waist-deep water splashes hard against your face. Wiping the slime from your eyes, you catch sight of a small brown and gold blur dashing across the stagnant water. The frilled lizard runs upright, its huge, flat feet making rapid sucking sounds as it dashes across the water. It can be slain with attack roll, and has an AC of 20 and a HP value of 1. Harvesting the corpse nets a CR{{1d4}} crafting component.",
+					"42": "With a jump, you realize that the curiously-shaped white stone bobbing just beneath the surface of the water is in fact an elongated skull. The skin has withered away and a few tendons have been exposed, as has the bone. The jaw bone is particularly prominent, much more so than any other skull you have seen in a life of adventuring. A few wisps of hair cling to its pate. A platinum coin appears to have been pushed into its empty mouth.",
+					"44": "A flooded foundation is all that remains of anabandoned church. Tombstones rise from the shallow waters nearby. (+30xp)",
+					"46": "A hunter's blind is positioned near an open pond, providing cover to anyone within. The hunter within is cheerful and offers to sell a CR{{1d3}} component pelt for 150gp.",
+					"48": "Hanging from a tree are half a dozen skulls. Dangling below each skull are half a dozen bones. The skulls and bones chime in a surprisingly musical manner when caught by the wind. (+10xp)",
+					"50": "You find a lakula tree, Bark shavings can be refined into a highly illegal substance that can be smeared on gums and directly to wounds, It gives an adrenaline rush and time seems to slow down but the duration of the high is short. its properties as a drug are coveted among the criminal classes. You can exchange it to some criminals for {{1d6+2}} lower contacts, or turn it into the guard for {{1d3}} middle contacts.",
+					"52": "You find a grove with a number of silvery moths, a DC18 Herbalism Kit Check will tell you that you can harvest Star Dust from thedust off of the wings of this particular moth.  When snorted, you suffer from the following effects darkvision for 8 hours, insomnia, compulsion to follow or stare at light (disadvantage on all checks made against an opponent who is holding a torch or near a bright light source), and a feeling of weightlessness. There is enough for {{1d4}} doses.",
+					"54": "The gentle, irregular croaking of frogs suddenly crescendos into a virtual roar. It sounds as if all the nearby frogs are trying to outdo each other for the loudest croak. Just under this noise, you can hear a rapid series of “plops,” as if hundreds of frogs have chased one another into the water. Then as suddenly as the noise began, it drops back to a croak or two. (+15xp)",
+					"56": "You find a thistle of devils root, slowly growing from under a nearby felled log. A black root that is ground up and snorted. The user blacks out and sees visions of hell there is {{1d3}} doses.", 
+					"58": "A wagon's muck-encrusted wheel spins slowly in the breeze. The wagon lies upended in the swamp mud, mushrooms growing from shattered wine casks. The red paint that once adorned the wagon has flaked away into a blotchy maroon rash. A horse's skeleton, its legs shattered, lies half buried in the swamp and a frog stares at you from its perch on the cracked and yellowed skull. Inspecting the inside you find several crates of supplies, untouched. You estimate you could sell them off for a profit of {{1d200+300}}GP",
+					"60": "Heavy cloud cover brings dusk several hours sooner then usal forcing you to make camp early, You spend the rest of the day relaxing around the campfire, and enjoying the natural ambience of the swamps around you. (+30xp).", 
+					"62": "The crumbling ruins of a sunken watchtower dominate a low ridge of stone and hard packed earth, mushrooms and and plant life grow along the sides of the tower. (+15xp)",
+					"64": "Overhead a black vulture flies by, letting out a loud hiss as it passes over you. It can be shot down with a ranged attack, and has an AC of 20 and a HP value of 1. Harvesting the corpse nets a CR{{1d5}} crafting component.",
+					"66": "A wind blows from the north, bringing the stench of death. Investigating it leads nowhere. (+10xp)",
+					"68": "A lone tree, on a swampy island, is covered in charms made from animal bones. They make an eerie sound as the wind blows over them. One of the bones is covered in strange symbols and can be used a CR{{1d3}} crafting component.",
+					"70": "A branch sticks out of some blackened water nearby. The light makes it look like someone’s hand is reaching out for help. (+15xp)",
+					"72": "You come across a section of swamps that is filled with dozens of bodies submurged just below the surface. Any attempts to interact with the bodies cause them to simply sink deeper into the waters below.(+20xp)",
+		            "74": "The mood in this area seems calm and peaceful. In the distance, you can see an old wooden canoe with a glossy, black color, gently drifting down a natural current through the swamp. Searching inside reveals a satchel containing a ring capped with a ruby gemstone. It is worth {{1d150+150}}GP",
+					"76": "A half rotted body floats in the water. Its missing its face. (+10xp)",
+					"78": "A group of red squirrels, with large bushy tails, are running in the branches of an oak tree. (+10xp)",
+					"80": "A frog doesn’t have time to hide before a group of hungry ducks crash into the water. The ducks catch the frog and gobble it down whole. (+15xp)",
+					"82": "A group of snapping turtles, three feet long, are sleeping in the sun. The turtles make a snapping motion with their three-foot long jaws, as the party passes. (+20xp)",
+					"84": "A pack of large, spotted dogs, with short hair, is digging up a dead raccoon. The dogs are attracted to the smell of the decaying carcass. (+10xp)",
+					"86": "Huge, carnivorous, black beetles are crawling around the muddy bank of a stream. The beetles are nearly the size of a human hand, and they’re picking over a dead and decomposing body laying on the ground. (+15xp)",
+					"88": "You find a blueberry plant with fist sized blueberries. If one is eaten, they taste delicious and heal 1d8 hit points. There are {{1d6}} blueberries per plant. A character may only benefit from one blueberry per day.",
+					"90": "You come across a wide and very deep ravine. About halfway down on the other side, you see the glint of a mineral deposit with the unmistakable luster of gold. Harvesting it with a successful DC((1d8+10)) smithing tools check nets {{1d50+75}} GP",
+					"92": "You hear a scream that sounds so alien it gives you chills. It it sounds very close but any attempt find it yields no results. (+10xp)",
+					"94": "You spot a murder of crows fly by. Alarmingly none of them seem to have eyes. (+25xp)",
+					"96": "A wand of wonder is found clutched in the hand of a dead paladin. It only has 1 charge left. (Unsellable)",
+					"98": "The player discovers a small flat-bottom boat beached next to a pool of stagnant water. The boat is covered in mildew and algae — but its sides and bottom appear to be sturdy enough to hold up in the water, a glance inside reveals a small bag containing {{3d8}} gold.",
+					"100": "A small clearing in the swamp has a stone well in it. The water is fresh and clear, but the well is so deep that the bottom disappears out of sight. A rope ladder is attached to the side of the well, leading into the depths below."
+		},
+		"locations": [
+			{
+				"name": "Lizardfolk Settlement",
+				"type": "Village",
+				"desc": "Deep within Kursas swamp lies the settlement of the Lizard Folk, It is thanks to the Lizardfolk and their periodic patrols that the Kursan Swamps is at all safe to enter. Among the various buisnesses that call the settlement home, Thruax' Curiosities has its doors open to adventurers looking for a magic item or two. (!tables LizardFolkShop)"
+			}
+		]
+	}
+]
+
+
