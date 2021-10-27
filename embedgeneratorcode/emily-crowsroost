@@ -1,0 +1,47 @@
+{
+  "username": "Emily the Barkeep",
+  "avatar_url": "https://cdn.discordapp.com/attachments/722732394754342934/903002743931813898/173229e31532b03ce3013dc5804fd6a7.jpg",
+  "content": "*The barkeep cocks a crooked grin and leans on the counter as you approach* \"Welcome to the Crows Roost friend, I hope you're not here to cause trouble eh? The last thing we need is another Warthred.\" *Emily gives a light chuckle* \"Anyways what can I get ya?\"",
+  "embeds": [
+    {
+      "title": "🍻 The Crows Roost 🍻",
+      "color": 0,
+      "description": "*A comfortable tavern located off New Rigans Town Square, The Crows Roost stands as one of the oldest and most enduring structures of New Rigan, there are many stories these walls could tell if they could talk.*\n\n**__Defenses__**\nThere are not many contemporary defenses to The Crows Roost, but that doesn't change the fact it's one of the best-protected buildings in New Rigan, A constant stream of powerful adventurers, off-duty inquisitors, and relaxing mercenaries like to call this place home.\nThe tavern is under the effects of the following spells:\n[Hallow](https://www.dndbeyond.com/spells/hallow) (Celestials, Fey, and Elementals unaffected, Hallow Effect: Tongues)\n[Forbiddance](https://www.dndbeyond.com/spells/forbiddance)\n\n**__ Daily Gambling and Entertaining__**\nOnce per day, players may gamble and attempt to entertain the Tavern. These rolls are done in this channel. Consult the below table for the rewards garnered from Gambling and or Entertaining. You may make either or both rolls. Each roll counts towards one of your three daily activity rolls.",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/722732398516895793/865305398281764934/a0b91dcd5ab54bb509358bbcd797a289.jpg"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/898326977650511918/901174761269387354/00d92f4f-645e-4444-938f-a6dfc04135be.png"
+      },
+      "footer": {},
+      "fields": []
+    },
+    {
+      "title": "🎲Gambling🎲",
+      "color": 0,
+      "description": "",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/898581010130800651/903019007735652402/unknown.png"
+      },
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    },
+    {
+      "title": "🍺Basic Drinks Menu🍺",
+      "color": 0,
+      "description": "\n🥛**__Water__**🥛- You need it. [1cp]\n\n🍋**__Lemonade__**🍋- A juiced lemonade, made from lemons. [3cp]\n\n🍺**__Ale__**🍺- a generic, brandless ale. [4cp]\n\n🍷**__Wine__**🍷- A generic, brandless wine. [2sp]\n\n🍺**__Apple Jack__**🍺- A hard apple cider, served with pulp, & cold. Tastes sweet. [3cp]\n\n🍺**__Workers friend__**🍺- A warm & somewhat bitter beer. Popular with day laborers & dock workers. [2cp]\n\n🥃**__Whitewater__**🥃- a sour vodka drink, that tastes of citrus & hits hard. [4cp]\n\n🍷**__Magma Wine__**🍷- A fire newt brewed wine, spiced & sweet. [1sp]\n\n🥃**__Hard Lemonade__**🥃- Lemonade mixed with a bit of alcohol for that extra kick. [5cp]\n\n🍷**__Gooseberry__**🍷-  A wine made from gooseberries, served chilled with a sweet & sour taste. [1sp]\n\n🍷**__Nocino__**🍷- A bittersweet brown liqueur, made from green walnuts. [1sp]\n\n🍺**__Dragonsbreath__**🍺- Hard as hell and from Mountain Dwarves. It's a spicy thing. [7cp]\n\n🍺**__Hearthfire__**🍺- A warm Hearty ale, common with workers. [4cp]",
+      "timestamp": "",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
