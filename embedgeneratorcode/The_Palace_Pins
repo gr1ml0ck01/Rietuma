@@ -1,0 +1,22 @@
+{
+  "username": "Royal Steward",
+  "avatar_url": "https://i.imgur.com/HGYw2QS.png",
+  "content": "\"Welcome to the Royal Palace. The King and his stewards are busy. If you have business here, be quick about it. We'll be watching you.\"",
+  "embeds": [
+    {
+      "color": 1207758,
+      "description": "🏰 **__The Palace__**\t🏰\n\n*A vast complex of buildings made of stone, wood, and brick. The palace is the newest addition to New Rigan. It is a shining example of the best architecture of the local artisans. The spires tower above the tree-line, the grounds are constantly alive with people, and inside the murmurs of advisors can be heard speaking on all manner of topics.*\n\n**Layout**\nThe central structure holds the throne room and rooms for guests and royalty. The East wing connects the #royal-library while the West wing connects #the-forge. The complex also includes a #military-camp nearby to make defending the structure easier. As well an orphanage is close at hand so that it too may share in the palace's defenses.\n\n**Defenses**\nThis area is constantly patrolled by the King's Royal Guards and his Miracle of Unicorns. As well, the grounds and buildings are under the effect of the following spells:\n[Private Sanctum](https://www.dndbeyond.com/spells/private-sanctum)\n[Forbiddance](https://www.dndbeyond.com/spells/forbiddance)\n[Hallow](https://www.dndbeyond.com/spells/hallow) *Creatures that are Celestials are excluded from the effects of the Hallow.*",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/hLdNZYy.png"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "Credit: Disney's \"Maleficent\" conceptual art"
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
