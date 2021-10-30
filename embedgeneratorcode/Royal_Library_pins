@@ -1,0 +1,22 @@
+{
+  "username": "Royal Scholar",
+  "avatar_url": "https://i.imgur.com/hCdJIgt.png",
+  "content": "*A well dressed man approaches you, speaking quietly,* \"Hello there. This library is ran by the Royal Librarian Mia. I may not be her, but perhaps I can help you with something if you need.\"",
+  "embeds": [
+    {
+      "color": 5120865,
+      "description": "📚 **__Royal Library__**\t📚\n\n*The quiet sound of pages being turned fills the air, and the smell of old books wafts into your nose. Many scholars and advisors gather around tables, pouring over books as they write upon blank sheets of parchment or cross reference other books as they read. Whatever their purpose, everyone is busy with their own quiet work.*\n\n**Rules**\nThere are set rules that the Librarian and other scholars adhere too. Breaking these rules will result in various repercussions depending on how severe the infraction.\n-There is to be no shouting or fighting.\n-Unless one has gotten permission, there should be no spellcasting or copying from tomes.\n-Certain areas of the library are restricted from the general public.\n\n**Defenses**\nThis area is constantly patrolled by the King's Royal Guards and his Miracle of Unicorns. As well, the grounds and buildings are under the effect of the [Private Sanctum](https://www.dndbeyond.com/spells/private-sanctum) spell. \nSome of the more valuable contents in the library also have [Instant Summons](https://www.dndbeyond.com/spells/instant-summons) cast on them.",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/zIjC7aW.jpeg"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "Abbey library of St Gall, Switzerland"
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
