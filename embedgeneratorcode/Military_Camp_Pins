@@ -1,0 +1,57 @@
+{
+  "username": "Royal Captain",
+  "avatar_url": "https://i.imgur.com/9eLv5i2.png",
+  "content": "*A man clad in armor stands barking orders at soliders. His body covered in scars and bruises from many battles. Seeing you approach he calls out to you,* \"You there! State your business here, and make it quick. I run a tight schedule so spit it out!\"",
+  "embeds": [
+    {
+      "color": 9118499,
+      "description": "⚔ **__Military Camp__** ⚔\n\n*Swords clash together as soldiers drill against one another. Across the small field of tents a large firepit blazes as a man in a smock prepares food for the weary soldiers. Officers watch on from their tents, or closer to their soldiers, barking orders at them. Various racks of weapons and shields lay close to a hut where a quartermaster works on polishing and sharpening the various tools of war. The atmosphere is full of organized chaos as soldiers train for combat.*\n\n**Defenses**\nThis area is constantly patrolled by the King's Royal Guards, the City guard, and the Kursan military. As well, many officers and mercenaries visit the camp regularly. Once every day, a procession of Elian acolytes come through to help tend to the wounded within the camp as well.\n\n**Daily Training**\nOnce per day, players may aid the officers within the camp. This roll is done in this channel. Consult the below table for the rewards garnered from your training. This roll counts towards one of your three daily activity rolls.",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/PMNuEC3.jpeg"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "Credit: Minijeong Kim on ArtStation"
+      },
+      "fields": []
+    },
+    {
+      "color": 9118499,
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/ByLd8AZ.png"
+      },
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
+
+//The below is the pins for the Battalion counter
+{
+  "username": "Royal Captain",
+  "avatar_url": "https://i.imgur.com/9eLv5i2.png",
+  "content": "*You enter the officers tent. A group of stern looking, well seasoned officers look at you as you enter. They all look expectantly, wondering what you bring to them today. Their posture remains unchangingly professional and rigid.* \"Well then, you wish to help the army of Kursa?\"",
+  "embeds": [
+    {
+      "color": 9118499,
+      "description": "**Battalions**\n*Those who wish may donate funds to raise troops that can be used in the defense of New Rigan and Kursa. Purchases are done in this channel. Please include your gold spent, which battalions you are funding, and an @ to the DMs.*\n\n🛡 `Battalion of Militia forces: 15k gp`\n🗡 `Battalion of light infantry: 30k gp (1)`\n⚔ `Battalion of heavy infantry: 50k gp (1)`\n🐎 `Battalion of Cavalry: 40k gp`\n🧙 `Battalion of battle mages: 60k gp (1)`",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": ""
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
