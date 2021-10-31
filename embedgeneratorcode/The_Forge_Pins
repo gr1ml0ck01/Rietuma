@@ -1,0 +1,33 @@
+{
+  "username": "Royal Quartermaster",
+  "avatar_url": "https://i.imgur.com/ukicHT5.png",
+  "content": "\"Welcome to the Royal Forge. Please, do not touch anything and do not bother the forgemaster or her apprentices. Perhaps though, if you wish to help I may have some tasks for you.\"",
+  "embeds": [
+    {
+      "color": 3941126,
+      "description": "⚒ __**The Forge**__ ⚒\n\n*A white hot furnace roars in the heart of the palace. Deep below the main building lies the forge. Walls are lined with arms, racks of raw material, and stands of armor sets. Apprentices scurry back and forth carrying and helping forge works for the Royal Forgemaster, Dott.*\n\n**Defenses**\nThis area is protected by the King's Royal Guards. As well, the grounds and buildings are under the effect of the [Private Sanctum](https://www.dndbeyond.com/spells/private-sanctum) spell.\n\n**Daily Forging**\nOnce per day, players may aid the quartermaster with orders for the forge. This roll is done in this channel. Consult the below table for the rewards garnered from your smithing. This roll counts towards one of your three daily activity rolls.",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/iRszd8F.png"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "Credit: Titus Lunter for Wizards of the Coast (MTG)"
+      },
+      "fields": []
+    },
+    {
+      "color": 3941126,
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/CXUdh5W.png"
+      },
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
