@@ -1,0 +1,22 @@
+{
+  "username": "Kursan Officer",
+  "avatar_url": "https://i.imgur.com/EF8MsBL.jpeg",
+  "content": "*You enter the officers tent. A group of stern looking, well seasoned officers look at you as you enter. They all look expectantly, wondering what you bring to them today. Their posture remains unchangingly professional and rigid as one of them addresses you,* \"Well then, you wish to help the army of Kursa?\"",
+  "embeds": [
+    {
+      "color": 9118499,
+      "description": "**Battalions**\n*Those who wish may donate funds to raise troops that can be used in the defense of New Rigan and Kursa. Purchases are done in this channel. Please include your gold spent, which battalions you are funding, and an @ to the DMs.*\n\n🛡 `Battalion of Militia forces: 15k gp`\n🗡 `Battalion of light infantry: 30k gp (1)`\n⚔ `Battalion of heavy infantry: 50k gp (1)`\n🐎 `Battalion of Cavalry: 40k gp`\n🧙 `Battalion of battle mages: 60k gp (1)`",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": ""
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
