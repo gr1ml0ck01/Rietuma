@@ -1,0 +1,33 @@
+{
+  "username": "Elian Priest",
+  "avatar_url": "https://i.imgur.com/CiMY9rG.jpeg",
+  "content": "*You enter a vibrant and alive area of New Rigan. Despite being on the edge of the city, the area is clean and bustling with many peoples. Seeing you approach, a man in robes greets you warmly with a smile,* \"Greetings, can I help you with anything? Or perhaps you came to help us?\"",
+  "embeds": [
+    {
+      "color": 11638550,
+      "description": "🕍 __**Church Campus**__ 🕍\n*A series of looming buildings, each made of fine materials and mason-work, on the edge of the city. When New Rigan was constructed, this area was but a humble chapel. Now the campus hosts a large #chapel where Elian practitioners can worship. The acolytes of St. Mary tend to the local #graveyard behind the building. At the front of the campus is the #inquisition-hq, a stone building that serves as barracks and offices for all branches of the Inquisition.*\n\n**Defenses**\nThis area is constantly patrolled by the members of the Church of Eli and Inquisitors. As well, the buildings are under the effect of the following spells:\n[Forbiddance](https://www.dndbeyond.com/spells/forbiddance)\n[Hallow](https://www.dndbeyond.com/spells/hallow), Celestials are immune to the effects of the spell, and the *Tongues* secondary effect is active, (creatures in the area can communicate with one another, even if they do not share a language).\n\n**Daily Doctoring**\nOnce per day, players may aid the acolytes in healing the sick and wounded. This roll is done in this channel. Consult the pinned table for the rewards garnered from your doctoring. This roll counts towards one of your three daily activity rolls.\n\n**Teleportation Circle**\nThe campus holds a teleportation circle to other churches within the Elian world. This includes the Isle of St. Chad. Teleportation is 10 gold pieces per person and the sigil sequence is closely guarded by the clergy.",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/20MwcgH.png"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "Credit: Sharmista Sharma on ArtStation"
+      },
+      "fields": []
+    },
+    {
+      "color": 11638550,
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/oMRFaao.png"
+      },
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
