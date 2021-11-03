@@ -1,0 +1,22 @@
+{
+  "username": "Inquisitor",
+  "avatar_url": "https://i.imgur.com/4ob8fJ6.png",
+  "content": "*An imposing stone building lies in front of you. You push open the door to find the inside warmly lit. Inquisitors walk about, either to their barracks or their offices. A heretic is dragged off toward a dungeon complex beneath the building. As you watch, another inquisitor approaches you.* \"Greetings child of Eli. Do you wish to aid is in crushing the heretics hiding in our midst? If so, please let us know everything.\" *She setting her hands on her hips, awaiting your response.*",
+  "embeds": [
+    {
+      "color": 7606546,
+      "description": "⚖ __**Inquisition HQ**__ ⚖\n*A bustling and busy set of stone buildings, this headquarters houses offices and barracks for inquisitors from all branches. Below the complex is a dungeon for heretics to be interrogated, held captive, and in some cases tortured. The walls are thick, and there is an active Inquisitor patrol at all hours. Even the most devoted Elian may feel on edge in this place.*\n\n**Defenses**\nThis area is constantly patrolled by the members of the Elian Inquisition and it houses some of the Higher ranking Inquisitors. As well, the buildings are under the effect of the following spells:\n[Forbiddance](https://www.dndbeyond.com/spells/forbiddance)\n[Hallow](https://www.dndbeyond.com/spells/hallow) The *Daylight* secondary effect is active causing Bright light to fill the area. Magical darkness created by spells lower then fifth level can't extinguish the light\n\n**Becoming an Inquisitor**\nIf you wish to become an inquisitor, you may sign up to become one. Please review the faction docs below. Once you apply, make sure to @ a DM in the #piety-and-renown-log so that your joining and renown can be tracked.\n[The Holy Inquisition of St. Thomas](https://docs.google.com/document/d/1oJ0O2MPzwrA2YLvqsgMcXtLCQ915W_I1ArcRPSGYb9o/edit?usp=sharing)\n[The Left Hand](https://docs.google.com/document/d/1U_dUSeZv4ajyCnp0m2kgsr5s8doXCnfjFPaRFsm9TyY/edit?usp=sharing)\n[The Right Hand](https://docs.google.com/document/d/1cMOu6QiAKAU6D5FClF-JUdE3pMxMgOy8OSMZRsG3Flk/edit?usp=sharing) Currently there is no renown for The Right Hand.\n\n**Reporting Heresy**\nPlayers may report heretics or pagans. To report a case, please post a detailed list of what your character is reporting and include an @ to DM's in your post so that it can be viewed and dealt with. Below are the docs that detail what is heresy and which spells are heretical.\n[Heresy](https://homebrewery.naturalcrit.com/share/C9MEHNURCzo8)\n[Heretical Spells](https://docs.google.com/document/d/1DjO809FCeq59lXK1DVCuuJU7ryYdfhPLLfOCgDI2YN8/edit?usp=sharing)",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://i.imgur.com/nqY9Vvk.jpeg"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "Credit: Cristiano Banti, \"Galileo before the Roman Inquisition\""
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
